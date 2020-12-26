@@ -1,5 +1,10 @@
-#AA-tools
+##AminoComent
+،،
 #for install
+،،
 apt install git
-apt install python 
+،،
+apt install python
+،،
 pip install Amino.py
+،،
